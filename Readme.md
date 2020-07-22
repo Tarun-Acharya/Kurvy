@@ -11,3 +11,5 @@ and install the software. For smoother downloads disable the antivirus softwares
  -  Matplotlib
  - Seaborn
  - pyInstaller
+ 
+### To use the application download the exe file on your PC and install it.
